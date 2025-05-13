@@ -4,4 +4,5 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=grekys84_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=grekys84_python-project-49)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=grekys84_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=grekys84_python-project-49)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=grekys84_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=grekys84_python-project-49)
-[Asciinema](https://asciinema.org/a/fuMXkTg1mOam7xPb3LVMdu3WR)
+[Brain-even](https://asciinema.org/a/yIfIuWw4Ip230qZJSsEJ8xYeF))
+[Brain-calc](https://asciinema.org/a/oomQx6TmRcvGQcPF8KJ69B7uM)
