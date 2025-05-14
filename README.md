@@ -6,5 +6,5 @@
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=grekys84_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=grekys84_python-project-49)
 
 [Brain-even](https://asciinema.org/a/yIfIuWw4Ip230qZJSsEJ8xYeF)
-
 [Brain-calc](https://asciinema.org/a/oomQx6TmRcvGQcPF8KJ69B7uM)
+[Brain-gcd](https://asciinema.org/a/J7VueTAk2w35a86wxfmf3XNq6)
