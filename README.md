@@ -6,9 +6,9 @@
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=grekys84_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=grekys84_python-project-49)
 
 # Setup
-'''
+```
 uv tool install hexlet_code-0.1.0.tar.gz
-'''
+```
 
 # Launch instructions
 
