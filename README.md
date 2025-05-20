@@ -5,6 +5,11 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=grekys84_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=grekys84_python-project-49)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=grekys84_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=grekys84_python-project-49)
 
+#Setup
+uv tool install hexlet_code-0.1.0.tar.gz
+
+#Launch instructions
+
 [Brain-even](https://asciinema.org/a/94KkOoCdxdcUtNAfN6hE3So3p)
 
 [Brain-calc](https://asciinema.org/a/NeQCCxu5KPsnEDmEDc2OiWLKN)
