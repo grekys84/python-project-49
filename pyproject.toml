@@ -1,7 +1,9 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-authors = "Viktor"
+authors = [
+    { name = "Viktor"}
+]
 description = "A collection of games"
 readme = "README.md"
 requires-python = ">=3.12"
