@@ -1,7 +1,7 @@
 import random
 from brain_games.scripts.engine import run_game
 
-GAME_LOGIC = "Answer 'yes' if given number is prime. Otherwise answer 'no'."
+GAME_LOGIC = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def is_prime(n):

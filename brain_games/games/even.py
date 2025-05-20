@@ -1,7 +1,7 @@
 import random
 from brain_games.scripts.engine import run_game
 
-GAME_LOGIC = "Answer 'yes' if the number is even, otherwise answer 'no'."
+GAME_LOGIC = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def generate_question():

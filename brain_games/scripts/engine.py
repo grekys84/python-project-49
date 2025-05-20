@@ -2,7 +2,6 @@ from brain_games.cli import welcome_user
 
 
 def run_game(game_logic, question_generator):
-    print("Welcome to the Brain Games!")
     name = welcome_user()
     print(game_logic)
     for _ in range(3):
