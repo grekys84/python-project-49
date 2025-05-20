@@ -5,12 +5,12 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=grekys84_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=grekys84_python-project-49)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=grekys84_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=grekys84_python-project-49)
 
-[Brain-even](https://asciinema.org/a/yIfIuWw4Ip230qZJSsEJ8xYeF)
+[Brain-even](https://asciinema.org/a/94KkOoCdxdcUtNAfN6hE3So3p)
 
-[Brain-calc](https://asciinema.org/a/oomQx6TmRcvGQcPF8KJ69B7uM)
+[Brain-calc](https://asciinema.org/a/NeQCCxu5KPsnEDmEDc2OiWLKN)
 
-[Brain-gcd](https://asciinema.org/a/J7VueTAk2w35a86wxfmf3XNq6)
+[Brain-gcd](https://asciinema.org/a/HIckTEoq99A7W72G7YSohLVHL)
 
-[Brain-progression](https://asciinema.org/a/lim224LKNpwyINU7ntrJoDhIV)
+[Brain-progression](https://asciinema.org/a/cC9p6cENooP4wCtlxcN8j51Q4)
 
-[Brain-prime](https://asciinema.org/a/utkJ8AzqJhtdcR8UMsycU2juB)
+[Brain-prime](https://asciinema.org/a/32rSHhzPcznm8e1KwFTQhb1U9)
