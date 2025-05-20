@@ -14,7 +14,7 @@ def generate_question():
 	random_index = random.randint(0, len(progression) - 1)
 	answer = progression.pop(random_index)
 	progression.insert(random_index, '..')
-	question = progression
+	question = ' '.join(map(str, progression))
 	return question, answer
 
 
