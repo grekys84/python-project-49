@@ -11,7 +11,7 @@ def run_game(game_logic, question_generator):
         if answer == str(correct_answer):
             print("Correct!")
         else:
-            print(f"'{answer}' is wrong answer ;(.Correct answer was '{correct_answer}'. \n"
+            print(f"'{answer}' is wrong answer ;(.Correct answer was '{correct_answer}'.\n"
             f"Let's try again, {name}!"
 			)
             return
